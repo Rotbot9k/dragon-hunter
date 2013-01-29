@@ -1,9 +1,4 @@
-/*
- * Clayton horstman
- * your lab section:13		
- * your lab TA’s name: vinh nquyen
- * your instructor’s name:Dr DeJongh
- */
+
 package horstman_project7;
 
 import java.applet.Applet;
